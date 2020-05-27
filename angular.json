@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "reactformbuilder"
+    }
+  },
+  "defaultProject": "reactformbuilder",
+  "cli": {
+    "analytics": "16eec5f9-e87b-4a3b-b3b9-4020a904bc17"
+  }
 }

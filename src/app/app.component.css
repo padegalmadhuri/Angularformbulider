@@ -1,0 +1,9 @@
+.has-error{
+  border: 1px solid red;
+}
+.has-noerror{
+border: 1px solid green;
+}
+.has-errortag{
+  color:red;
+}
